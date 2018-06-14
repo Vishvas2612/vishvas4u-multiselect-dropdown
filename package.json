@@ -1,0 +1,29 @@
+{
+  "name": "com.vishvas4u",
+  "version": "1.0.0",
+  "description": "customize angular2 multiselect dropdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishvas2612/vishvas4u-multiselect-dropdown.git"
+  },
+  "keywords": [
+    "Customized",
+    "Angular2",
+    "Multiselect",
+    "Dropdown",
+    "by",
+    "Vishvas",
+    "j",
+    "Patel"
+  ],
+  "author": "Vishvas J Patel <vishvas.patel4226@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishvas2612/vishvas4u-multiselect-dropdown/issues"
+  },
+  "homepage": "https://github.com/Vishvas2612/vishvas4u-multiselect-dropdown#readme"
+}
